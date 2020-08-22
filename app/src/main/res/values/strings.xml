@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="img_news">img_news</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="title_activity_news_detail">Detail News</string>
+    <string name="splashscreen">splashscreen</string>
+    <string name="publish">publish</string>
+    <string name="motto">..... breaking news\naccurate and reliable</string>
+</resources>
